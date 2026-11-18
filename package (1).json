@@ -1,0 +1,9 @@
+{
+  "name": "endless-horde-online",
+  "version": "1.0.0",
+  "description": "Endless Horde: servidor de presencia multijugador (WebSockets)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
